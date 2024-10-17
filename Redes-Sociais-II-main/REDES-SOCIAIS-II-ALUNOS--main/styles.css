@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid hsla(0, 100%, 24%, 0.76);
+    border-radius: 5px;
+}
+
+h1 {
+    color: #21004b;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.feedback {
+    border: 1px solid #860303;
+    background-color: #ff8ef6;
+    padding: 10px;
+    margin-top: 20px;
+}
